@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: OOP_AV
+  annotations:
+    github.com/project-slug: avachani/OOP_AV
+spec:
+  type: other
+  lifecycle: unknown
+  owner: restricted
